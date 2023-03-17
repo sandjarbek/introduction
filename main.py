@@ -3,3 +3,6 @@ import calculate
 print("Hello")
 
 print(calculate.x)
+
+def foo():
+  print("Hello again")
