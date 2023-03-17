@@ -6,3 +6,4 @@ print(calculate.x)
 
 def foo():
   print("Hello again")
+print("bye bye")
